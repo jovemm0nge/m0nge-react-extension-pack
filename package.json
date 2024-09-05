@@ -1,6 +1,6 @@
 {
-  "name": "m0nge-react-extension-pack",
-  "displayName": "m0nge-react-extension-pack",
+  "name": "m0nge-react-pack",
+  "displayName": "m0nge react pack",
   "description": "React extension pack, code like a monge.",
   "version": "0.0.2",
   "engines": {
