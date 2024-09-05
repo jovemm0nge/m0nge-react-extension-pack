@@ -1,0 +1,38 @@
+{
+  "name": "m0nge-react-extension-pack",
+  "displayName": "m0nge-react-extension-pack",
+  "description": "React extension pack, code like a monge.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "mrmlnc.vscode-duplicate",
+    "patbenatar.advanced-new-file",
+    "waderyan.gitblame",
+    "ms-vsliveshare.vsliveshare",
+    "apollographql.vscode-apollo",
+    "jpoissonnier.vscode-styled-components",
+    "xabikos.javascriptsnippets",
+    "andys8.jest-snippets",
+    "skyran.js-jsx-snippets",
+    "pulkitgangwar.nextjs-snippets",
+    "zhuangtongfa.material-theme",
+    "ms-vscode.vscode-typescript-next",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "davidsonfellipe.react-vscode-snippets",
+    "formulahendry.react-redux-snippets",
+    "mikestead.react-multiline-snippets",
+    "robertohuertasm.vscode-icons",
+    "christian-kohler.path-intellisense",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ]
+  
+}
