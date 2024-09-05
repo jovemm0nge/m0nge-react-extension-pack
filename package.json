@@ -9,6 +9,27 @@
   "categories": [
     "Extension Packs"
   ],
+  "publisher": "jovemm0nge",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "next",
+    "styled-components",
+    "graphql",
+    "apollo"
+  ],
+  "repository": {
+    "url": "https://github.com/jovemm0nge/m0nge-react-extension-pack"
+  },
+  "homepage": "https://github.com/jovemm0nge/m0nge-react-extension-pack",
+  "bugs": {
+    "url": "https://github.com/jovemm0nge/m0nge-react-extension-pack/issues"
+  },
   "extensionPack": [
     "editorconfig.editorconfig",
     "dbaeumer.vscode-eslint",
@@ -34,5 +55,4 @@
     "christian-kohler.path-intellisense",
     "ms-vscode.vscode-typescript-tslint-plugin"
   ]
-  
 }
