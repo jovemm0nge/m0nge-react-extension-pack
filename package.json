@@ -2,7 +2,7 @@
   "name": "m0nge-react-extension-pack",
   "displayName": "m0nge-react-extension-pack",
   "description": "React extension pack, code like a monge.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -20,8 +20,8 @@
     "typescript",
     "next",
     "styled-components",
-    "graphql",
-    "apollo"
+    "reactjs",
+    "web"
   ],
   "repository": {
     "url": "https://github.com/jovemm0nge/m0nge-react-extension-pack"
