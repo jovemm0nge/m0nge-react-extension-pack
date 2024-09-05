@@ -2,7 +2,7 @@
   "name": "m0nge-react-extension-pack",
   "displayName": "m0nge react pack",
   "description": "React extension pack, code like a monge.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.92.0"
   },
